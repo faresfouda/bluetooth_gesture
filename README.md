@@ -1,23 +1,16 @@
-# Bluetooth Media Player - Gesture-Controlled Music App
+# bluetooth
 
-## Overview
-The Bluetooth Media Player app, created by Team 7-Segment, is designed to connect and interact with Bluetooth devices using gesture controls. This app is built using Flutter and provides an intuitive user experience for controlling music playback via Bluetooth.
-
-## Features
-- **Gesture Controls**: Play, pause, skip, and rewind music tracks using gestures.
-- **Bluetooth Connectivity**: Connect to Bluetooth devices for music playback.
-- **File Picker**: Select multiple audio files from your device.
-
-## Screenshots
-### Main Screen
-![Main Screen](screen_shots/screen_1.jpg)
-*Main screen with connection status and options.*
-
-### Song List
-![Song List](screen_shots/screen_2.jpg)
-*List of songs available after Bluetooth connection.*
+A new Flutter project.
 
 ## Getting Started
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/flutter-gesture-bluetooth.git
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
