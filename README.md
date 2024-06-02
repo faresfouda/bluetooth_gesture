@@ -10,11 +10,11 @@ The Bluetooth Media Player app, created by Team 7-Segment, is designed to connec
 
 ## Screenshots
 ### Main Screen
-![Main Screen](screen_shots/screen_1.jpg)
+<img src="screen_shots/screen_1.jpg" alt="Main Screen" width="300"/>
 *Main screen with connection status and options.*
 
 ### Song List
-![Song List](screen_shots/screen_2.jpg)
+<img src="screen_shots/screen_2.jpg" alt="Main Screen" width="300"/>
 *List of songs available after Bluetooth connection.*
 
 ## Getting Started
